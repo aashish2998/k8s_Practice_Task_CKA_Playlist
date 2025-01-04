@@ -88,8 +88,9 @@ Following the [doc](https://kind.sigs.k8s.io/) install a single node kind clus
 [task-26](https://www.notion.so/task-26-1669b56f0a6680d1bc13ed54b5b89796?pvs=21)
 
 
-Task from 30 to 40 will be updated to soon - working on it .
-
 # Task-29
 
 [task-29](https://www.notion.so/task-29-16a9b56f0a66802faaf6f71e4df2c509?pvs=21)
+
+
+Task from 30 to 40 will be updated to soon - working on it .
