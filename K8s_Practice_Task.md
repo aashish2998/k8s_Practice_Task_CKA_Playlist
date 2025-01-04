@@ -1,5 +1,7 @@
 # K8s hands-on
 
+- click on the link to access the  solution for the task ...
+
 # Task -6
 
 Following the [doc](https://kind.sigs.k8s.io/) install a single node kind cluster on your local machine with Kubernetes version 1.29 
